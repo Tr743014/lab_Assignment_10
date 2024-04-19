@@ -1,17 +1,3 @@
-/*
-Implement a trie data structure to count the number of occurences of a word 
-if it exists in the dictionary.
-Words will be in lowercase.
-Rubric:
-struct Trie is define correctly
-insert function implemented correctly.
-numberOfOccurances function is implemented correctly
-deallocateTrie function is implemented correctly
-creatTrie function is implemented correctly
-readDictionary function is implemented correctly.
-*/
-
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
